@@ -1,5 +1,4 @@
 name: Upload Website
-name: Upload Website
 on:
   push:
     branches:
